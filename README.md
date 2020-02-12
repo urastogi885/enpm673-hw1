@@ -8,6 +8,11 @@ Decomposition).
 
 Here, we will cover the instructions to run the coding problems.
 
+## Files
+
+- The *data* folder contains the various csv files that contain the data sets for problem 2. *DO NOT DELETE THIS FOLDER*
+- The *output images* folder stores the output plots for problem 2.
+
 ## Dependencies
 
 - Python3
@@ -47,4 +52,4 @@ python3 problem_2.py
 ````
 python3 problem_3.py
 ````
-- THe program will print 4 matrices for SVD
+- The program will print 4 matrices for SVD
