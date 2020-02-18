@@ -1,4 +1,6 @@
 # ENPM673 - Homework 1
+[![Build Status](https://travis-ci.org/urastogi885/Supermarket-Cleaning-Robot.svg?branch=master)](https://travis-ci.org/urastogi885/Supermarket-Cleaning-Robot)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/urastogi885/Supermarket-Cleaning-Robot/blob/master/LICENSE)
 
 ## Overview
 
