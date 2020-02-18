@@ -1,5 +1,5 @@
-# Disable sudo to speed up the build
-sudo: false
+# Set OS to linux
+os: linux
 
 # Set the build language to Python
 language: python
