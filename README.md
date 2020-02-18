@@ -45,11 +45,11 @@ import matplotlib.pyplot as plt
 - Open a terminal window by right-clicking on empty space within the folder and then click ````Open in Terminal````
 - Make sure all dependencies have been installed and run program for problem 2:
 ````
-python3 problem_2.py
+python3 ransac.py
 ````
 - The program launches 4 plots: next one will pop up once you close the current one
 - Run program for problem 3:
 ````
-python3 problem_3.py
+python3 svd_simple.py
 ````
 - The program will print 4 matrices for SVD
