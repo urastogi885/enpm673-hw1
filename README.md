@@ -1,10 +1,10 @@
 # ENPM673 - Homework 1
 [![Build Status](https://travis-ci.org/urastogi885/enpm673-hw1.svg?branch=master)](https://travis-ci.org/urastogi885/enpm673-hw1)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/urastogi885/Supermarket-Cleaning-Robot/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/urastogi885/svd-n-ransac/blob/master/LICENSE)
 
 ## Overview
 
-The homework consists of 3 parts with a non-coding and 2 coding problems. The non-coding problem covers with basic optics 
+The project consists of 3 parts with a non-coding and 2 coding problems. The non-coding problem covers with basic optics 
 concepts while the coding problems cover curve fitting algorithms and perception algorithms such as SVD (Singular Value 
 Decomposition).
 
